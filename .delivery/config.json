@@ -5,9 +5,5 @@
     "name": "delivery-truck",
     "branch": "master"
   },
-  "skip_phases": [
-    "smoke",
-    "security",
-    "quality"
-  ]
+  "skip_phases": ["verify", "unit", "lint", "smoke", "publish","provision","deploy","functional","syntax","security","quality"]
 }
