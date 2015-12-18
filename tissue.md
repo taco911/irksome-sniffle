@@ -1,1 +1,1 @@
-don't judge my cold
+Let's take care of that cold!
